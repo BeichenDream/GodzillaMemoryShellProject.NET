@@ -5,15 +5,18 @@
 当目标存在反序列化漏洞或其它漏洞，我们可以通过加载此项目的类来获得无文件的内存Shell
 
 ### 如何使用
-  1. 普通的ASP.NET 网站(存在aspx/asmx/ashx/soap/...)
+  *  普通的ASP.NET 网站(存在aspx/asmx/ashx/soap/...)
   
-    使用 https://github.com/BeichenDream/GodzillaMemoryShellProject.NET/blob/main/GodzillaMemoryShellProject/VirtualPathProviderMemoryShell.cs
-  2. ASP.NET MVC网站
+     [VirtualPathProviderMemoryShell](https://github.com/BeichenDream/GodzillaMemoryShellProject.NET/blob/main/GodzillaMemoryShellProject/VirtualPathProviderMemoryShell.cs)
+
+  *  ASP.NET MVC网站
   
-    使用 https://github.com/BeichenDream/GodzillaMemoryShellProject.NET/blob/main/GodzillaMemoryShellProject/HttpWebRouteMemoryShell.cs
-  3. System权限(HttpListener复用适用于所有类型)
+     [HttpWebRouteMemoryShell](https://github.com/BeichenDream/GodzillaMemoryShellProject.NET/blob/main/GodzillaMemoryShellProject/HttpWebRouteMemoryShell.cs)  
+
+  *  System权限(HttpListener复用适用于所有类型)
   
-    使用 https://github.com/BeichenDream/GodzillaMemoryShellProject.NET/blob/main/GodzillaMemoryShellProject/HttpListenerMemoryShell.cs
+     [HttpListenerMemoryShell](https://github.com/BeichenDream/GodzillaMemoryShellProject.NET/blob/main/GodzillaMemoryShellProject/HttpListenerMemoryShell.cs)    
+
   
 ## Web Demo
 
