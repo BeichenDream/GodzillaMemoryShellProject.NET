@@ -30,7 +30,7 @@
 
 ## InjectHttpListenerMemoryShell
 
-连接时URL填写httpListenerURL，如http://127.0.0.1:80/godzilla/、http://127.0.0.1:80/ews/soap/
+连接时URL填写httpListenerURL，如http://127.0.0.1:80/godzilla/ http://127.0.0.1:80/ews/soap/
 
 ![image](https://user-images.githubusercontent.com/43266206/204101496-ac0fc2fe-56e7-4819-81ac-d70c0edc7bdd.png)
 
