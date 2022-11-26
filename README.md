@@ -24,12 +24,18 @@
 
 ## InjectVirtualPathProviderMemoryShell
 
+连接时URL填写目标已存在的可执行脚本，如aspx/asmx/ashx/soap
+
 ![image](https://user-images.githubusercontent.com/43266206/204101485-e697e5dc-a759-4107-a28a-da42232f3c51.png)
 
 ## InjectHttpListenerMemoryShell
 
+连接时URL填写httpListenerURL，如http://127.0.0.1:80/godzilla/、http://127.0.0.1:80/ews/soap/
+
 ![image](https://user-images.githubusercontent.com/43266206/204101496-ac0fc2fe-56e7-4819-81ac-d70c0edc7bdd.png)
 
-## InjectVirtualPathProviderMemoryShell
+## InjectHttpWebRouteMemoryShell
+
+连接时URL填写目标已存在的路由,如http://localhost/Home/About
 
 ![image](https://user-images.githubusercontent.com/43266206/204101512-70c58998-0f38-4994-9a1f-22f1c9464d11.png)
