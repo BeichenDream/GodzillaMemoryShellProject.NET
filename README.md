@@ -24,7 +24,7 @@
 
 ## InjectVirtualPathProviderMemoryShell
 
-连接时URL填写目标已存在的可执行脚本，如aspx/asmx/ashx/soap
+连接时URL填写目标已存在的可执行脚本，如aspx/asmx/ashx/soap http://127.0.0.1:80/Test.aspx
 
 ![image](https://user-images.githubusercontent.com/43266206/204101485-e697e5dc-a759-4107-a28a-da42232f3c51.png)
 
