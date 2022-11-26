@@ -4,6 +4,8 @@
 
 当目标存在反序列化漏洞或其它漏洞，我们可以通过加载此项目的类来获得无文件的内存Shell
 
+姊妹项目(Java 内存Shell)：https://github.com/BeichenDream/GodzillaMemoryShellProject
+
 ### 如何使用
   *  普通的ASP.NET 网站(存在aspx/asmx/ashx/soap/...)
   
@@ -39,3 +41,7 @@
 连接时URL填写目标已存在的路由,如http://localhost/Home/About
 
 ![image](https://user-images.githubusercontent.com/43266206/204101512-70c58998-0f38-4994-9a1f-22f1c9464d11.png)
+
+# 引用
+
+https://github.com/knownsec/KCon/blob/master/2021/%E9%AB%98%E7%BA%A7%E6%94%BB%E9%98%B2%E6%BC%94%E7%BB%83%E4%B8%8B%E7%9A%84Webshell.pdf
